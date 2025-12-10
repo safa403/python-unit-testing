@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Step 1: Load CSV file
-# CSV file same folder-il "data.csv" enn save cheythal mathi
 data = pd.read_csv("data.csv")
 
 # Step 2: Show first 5 rows
